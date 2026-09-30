@@ -1,0 +1,16 @@
+/* Additional responsive tweaks for BEAUTY PLUS Landing Page */
+
+@media (max-width: 768px) {
+  .hero-left-col {
+    text-align: center;
+  }
+
+  .hero-left-col p {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hero-left-col div[style*="display: flex"] {
+    justify-content: center;
+  }
+}
